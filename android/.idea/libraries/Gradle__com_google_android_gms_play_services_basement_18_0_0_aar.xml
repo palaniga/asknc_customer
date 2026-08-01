@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-basement:18.0.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/AwesomeProject/android/gradle/caches/8.10.2/transforms/fdb75bbd3389685c4dd77394e558a110/transformed/jetified-play-services-basement-18.0.0/res" />
+      <root url="file://$USER_HOME$/AwesomeProject/android/gradle/caches/8.10.2/transforms/fdb75bbd3389685c4dd77394e558a110/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/AwesomeProject/android/gradle/caches/8.10.2/transforms/fdb75bbd3389685c4dd77394e558a110/transformed/jetified-play-services-basement-18.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AwesomeProject/android/gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-basement/18.0.0/36bdff1deaba5efcc76d7e68ea06b3c50af7bc0/play-services-basement-18.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

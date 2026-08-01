@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "online.asknc.user"
+    name: "Asknc"
+  ios:
+    id: "online.asknc.user"
+    name: "Asknc"

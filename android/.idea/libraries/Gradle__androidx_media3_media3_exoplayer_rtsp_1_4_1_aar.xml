@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.media3:media3-exoplayer-rtsp:1.4.1@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/AwesomeProject/android/gradle/caches/8.10.2/transforms/d9add089cf7532f610e241f144e67ec4/transformed/jetified-media3-exoplayer-rtsp-1.4.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AwesomeProject/android/gradle/caches/8.10.2/transforms/d9add089cf7532f610e241f144e67ec4/transformed/jetified-media3-exoplayer-rtsp-1.4.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AwesomeProject/android/gradle/caches/8.10.2/transforms/d9add089cf7532f610e241f144e67ec4/transformed/jetified-media3-exoplayer-rtsp-1.4.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AwesomeProject/android/gradle/caches/modules-2/files-2.1/androidx.media3/media3-exoplayer-rtsp/1.4.1/35a88c2a49fd7784310b05161f67df8949b2f17b/media3-exoplayer-rtsp-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
